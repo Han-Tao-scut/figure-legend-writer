@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figure Legend Writer"
+  short_description: "English figure legends with Chinese evidence and stats review"
+  default_prompt: "Use $figure-legend-writer to draft an English figure legend from my panels, data and statistics for the target journal, and provide a Chinese evidence-gap checklist."
