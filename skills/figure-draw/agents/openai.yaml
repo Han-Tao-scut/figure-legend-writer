@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figure Draw"
+  short_description: "Data-faithful statistical figures for Nature and Science"
+  default_prompt: "Use $figure-draw to create an editable statistical figure from my data for Nature or Science, checking current official requirements and reporting any evidence gaps in Chinese."
